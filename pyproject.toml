@@ -34,7 +34,7 @@ dependencies = [
     "six==1.16.0",
     "tzlocal==4.3.1",
     "pytz==2022.7.1",
-    "certifi==2022.12.7",
+    "certifi==2023.7.22",
     "keyring==23.13.1",
     "keyrings-alt==4.2.0"
 ]
